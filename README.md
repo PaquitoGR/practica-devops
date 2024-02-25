@@ -1,10 +1,11 @@
 # Práctica DevOps
 Entrega de la práctica de despliegue en servidores del bootcamp web15 de Keepcoding
 
-## Enlaces servicor AWS EC2
-IP [52.206.94.208](http://52.206.94.208) (Frontend React).
+## Enlaces AWS EC2
 
 DNS [ec2-52-206-94-208.compute-1.amazonaws.com](http://ec2-52-206-94-208.compute-1.amazonaws.com) (Backend Node).
+
+IP [52.206.94.208](http://52.206.94.208) (Frontend React).
 
 ## Ejercicio 1
 
